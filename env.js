@@ -4,11 +4,11 @@ window.settings = {
   // 站点名称
   title: 'HXSpeed',
   // 站点描述
-  description: 'HXSpeed',
+  description: 'HXSpeed is best!',
   assets_path: '/assets',
   // 主题色
   theme: {
-    color: 'blue', //可选default、blue、black、、darkblue
+    color: 'darkblue', //可选default、blue、black、、darkblue
   },
   // 版本号
   version: '0.1.1-dev',
